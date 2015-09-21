@@ -1,0 +1,10 @@
+
+#Cadastro e país
+name = raw_input("What is your name? ")
+country = raw_input("What Country do you live in? ")
+country = country.upper()
+
+
+#Informação Console
+print("Bem vindo " + name + ", \n You live in, " + country)
+
